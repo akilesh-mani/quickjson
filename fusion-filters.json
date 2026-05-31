@@ -40,29 +40,29 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF00FF37",
+      "borderColor": "#FF04DCFF",
       "groupId": "gq",
       "id": "q-cinephiles",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/akilesh-mani/quickjson/main/cinephiles.png",
       "isEnabled": true,
       "name": "CiNEPHiLES",
       "pattern": "(?i)\\bcinephiles\\b",
       "tagColor": "#FF04DCFF",
-      "tagStyle": "filled and bordered",
-      "textColor": "#000000",
+      "tagStyle": "filled",
+      "textColor": "#0e0e0e",
       "type": "filter"
     },
     {
-      "borderColor": "#FF00FF37",
+      "borderColor": "#FF04DCFF",
       "groupId": "gq",
       "id": "q-framestor",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/akilesh-mani/quickjson/main/framestor.png",
       "isEnabled": true,
       "name": "FraMeSToR",
       "pattern": "(?i)\\bframestor\\b",
       "tagColor": "#FF04DCFF",
-      "tagStyle": "filled and bordered",
-      "textColor": "#000000",
+      "tagStyle": "filled",
+      "textColor": "#0e0e0e",
       "type": "filter"
     },
     {
