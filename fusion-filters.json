@@ -47,9 +47,9 @@
       "isEnabled": true,
       "name": "CiNEPHiLES",
       "pattern": "(?i)\\bcinephiles\\b",
-      "tagColor": "#E600E932",
+      "tagColor": "#3304DCFF",
       "tagStyle": "filled and bordered",
-      "textColor": "#27C04F",
+      "textColor": "#04DCFF",
       "type": "filter"
     },
     {
@@ -60,9 +60,9 @@
       "isEnabled": true,
       "name": "FraMeSToR",
       "pattern": "(?i)\\bframestor\\b",
-      "tagColor": "#E600E932",
+      "tagColor": "#3304DCFF",
       "tagStyle": "filled and bordered",
-      "textColor": "#27C04F",
+      "textColor": "#04DCFF",
       "type": "filter"
     },
     {
